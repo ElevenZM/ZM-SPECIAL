@@ -1,0 +1,213 @@
+- ZM:SPECIAL v1.1.5-beta.0 Changelog -
+This version is based on memory. v1.1.5-beta.1 and on will be properly documented.
+
+You can find links to most mods on the Contributors & Mod List.
+
+- MAIN -
+- Install method changed
+- Added plug-ins
+- Added File Addition config.json
+- Added ARCropolis Menu files
+- Added written tutorial with how to set up HDR gameplay features on ZM:SPECIAL
+- Added changelog
+- Fixed the beta 1.1.1 music issue
+
+- FIGHTERS -
+Donkey Kong:
+- Replaced c07 with Pirate Funky Kong by LN
+Link:
+- Replaced c02 with Snowquill Set Link by LN
+Samus:
+- Added Blood Samus by PigeonL_SSB on c03
+- Updated the models of Samus Re-Envisioned by Noababoa
+Kirby:
+- Replaced c06 with Clay Kirby by Jory Satana
+Ness:
+- Replaced c01 with Vinny Ness by ElevenZM
+- Replaced c02 with Tokyo 1989-2 Ness by PK
+- Replaced c03 with Kraken Ness by ColdPizza
+Jigglypuff:
+- Replaced c01 with ZM:SP Purin
+- Replaced c07 with Guzma Shades Jigglypuff by Jory Satana
+Zelda:
+- Replaced c02 with Fierce Diety Zelda by Grandserein
+Marth:
+- Replaced c05 with Groom Marth by Cattail
+Young Link:
+- Added the Keaton Mask to c02 (Kafei alt)
+- Added Majora's Mask to c03 (Skull Kid alt)
+Ganondorf:
+- Replaced c06 with Beast Ganon by Nano
+- Replaced c07 with NES Beast Ganon by Nano
+Mewtwo:
+- Replaced c02 with Shadow Mewtwo by Volya
+- Replaced c03 with Mega Mewtwo Y by Nano
+- Replaced c04 with Mega Mewtwo X by Nano
+- Replaced c05 with Mega Shadow Mewtwo X by LN
+- Replaced c06 with ZM:SP Mega Shadow Mewtwo X by LN and ElevenZM
+Giga Bowser:
+- Gave him full UI, though does not have pictures for Dry Giga Bowser alts yet
+Zero Suit Samus:
+- Replaced c04 wth Casual Outfit ZSS by LN
+- Replaced c05 with MO Casual Outfit ZSS by LN
+Snake:
+- Replaced c03 with Venom Snake by Fewtch
+- Replaced c04 with MGS1 Snake by Alasazar
+- Replaced c05 with MGS1 Tuxedo Snake by Alasazar
+Pokemon Trainer:
+- Fixed UI
+- Removed Tribal Trainer
+- Replaced c05 with Warrior Trainer by LN
+- Replaced c07 with Purple Warrior Trainer by LN
+Squirtle:
+- Fixed UI
+- Removed Tribal Squirtle
+- Replaced c05 with Warrior Squirtle by LN
+- Replaced c07 with Black Warrior Squirtle by LN
+Ivysaur:
+- Fixed UI
+- Removed Tribal Ivysaur
+- Replaced c05 with Warrior Ivysaur by LN
+- Replaced c07 with White Warrior Ivysaur by LN
+Charizard:
+- Fixed UI
+- Removed Tribal Charizard
+- Replaced c05 with Warrior Charizard by LN
+- Replaced c07 with Black Warrior Charizard by LN
+Lucas:
+- Replaced c02 with Great Wave Lucas by Blucas
+- Replaced c03 with Commander Lucas by Nano
+- Replaced c04 with Masked Man by Nano
+- Replaced c05 with ZM:SP Masked Man by Nano and ElevenZM
+- Replaced c06 with Gold Masked Man by Nano and ElevenZM
+- Replaced c07 with Unmasked Man by Nano
+King Dedede:
+- Replaced c03 with Forgotten Land Dedede by Endersheep
+Pikmin:
+- Replaced c02 with Bad Ending Olimar by Nano
+- Replaced c03 with Mushroom Bad Ending Olimar by Nano
+Toon Link:
+- Replaced c01 with Outset Toon Link by Ilagu
+Wii Fit Trainer:
+- Made Reckless Safety Notice into last 2 slots instead of 4
+Little Mac:
+- Replaced c03 with Doc Louis by JJ314
+- Replaced c04 with Giga Mac by JJ314
+Doc Louis:
+- Replaced c03 with Little Mac by JJ314
+PAC-MAN:
+- Replaced c03 with Professor PAC-MAN by LuckyJero
+- Replaced c04 with Gentle-MAN by LuckyJero
+- Replaced c05 with PAC-Devil by LuckyJero
+Lucina:
+- Replaced c07 with Decorated Lucina by akomni
+Duck Hunt:
+- Replaced c01 with ZM:SP Duck Hunt by ElevenZM
+Chrom:
+- Replaced c06 with Exalt Chrom by Cattail
+Dark Samus:
+- Replaced c01 with ZM:SP Dark Samus by ElevenZM
+Incineroar:
+- Replaced c04 with Team Skull Incineroar by PSIOno
+- Replaced c05 with GS Team Skull Incineroar by PSIOno
+Piranha Plant:
+- Replaced c02 with Muncher Piranha Plant by Crescent Mods
+- Replaced c03 with Ice Piranha Plant by SonicGamer11
+- Replaced c06 with Spiny Piranha Plant by Jory Satana
+- Replaced c07 with Prickly Piranha Plant by Jory Satana
+Hero:
+- Replaced c04 with Armoured Eleven by LN
+- Replaced c05 with Armoured Arusu by LN
+- Replaced c06 with Armoured Solo by LN
+- Replaced c07 with Armoured Eight by LN
+Byleth:
+- Replaced c02 with ZM:SP Byleth by ElevenZM
+- Replaced c05 with Summer Byleth by GryzX
+- Replaced c06 with Enlightened One Byleth by LN
+- Replaced c07 with Enlightened One Byleth by LN
+Sephiroth:
+- Replaced c07 with Safer Sephiroth by LN
+
+- STAGES -
+Battlefield:
+- Replaced both forms with Shrine Battlefield II by ElevenZM
+Final Destination:
+- Replaced both forms with World of Light Destination by JoBen
+Great Bay:
+- Replaced normal form with Legal ver. by Ginn
+Brinstar:
+- Replaced battle form with Pyrosphere by Crescent Mods
+Yoshi's Story:
+- Replaced normal form with Beach Yoshi's Story by 0X1
+Fountain of Dreams:
+- Replaced normal form with Infinite Azure by WTails
+Big Blue:
+- Replaced battle form with Big Vapor by WielandSMH
+Mushroomy Kingdom:
+- Replaced battle form with Mushroomy Kingdom 1-2 by Crescent Mods
+Figure-8 Circuit:
+- Replaced both forms with Jungle Island (Remake) by ElevenZM
+Pokemon Stadium 2:
+- Replaced both forms with Cipher Stadium 2 by Crescent Mods
+Smashville:
+- Replaced both forms with Woodfallville by 0X1
+Skyworld:
+- Replaced both forms with Heavenly Skyworld by WTails
+Pirate Ship:
+- Replaced battle form with Ganon's Tower by Crescent Mods
+Spear Pillar:
+- Replaced battle form with Distortion World DX by Crescent Mods
+Town & City:
+- Replaced normal form with Sakura City by CSharp
+Boxing Ring (Smash Bros.):
+- Replaced normal form with Legal ver. by Ginn
+Gaur Plain:
+- Replaced normal form with Legal form by Devory
+Suzaku Castle:
+- Fixed UI
+- Replaced both forms with Night Suzaku Castle by WTails
+New Donk City Hall:
+- Replaced battle form with New Donk Festival by WTails
+Moray Towers:
+- Replaced battle form with Always Night Moray Towers by Tolty
+Results:
+- Replaced normal form with Mishima Dojo Results (Inside) by WTails
+Vs. Marx:
+- Replaced normal form with Legal ver. by Ginn
+Vs. Galleom:
+- Replaced normal form with Legal ver. by Ginn
+Vs. Rathalos:
+- Replaced normal form with Ancestral Steppe by Ginn
+Vs. Ganon:
+- Replaced normal form with Legal ver. by Ginn
+Home-Run Contest:
+- Replaced normal form with Legal ver. by Ginn
+
+- UI -
+- Added hololive production series icon by ElevenZM
+- Added Black Clover series icon by ElevenZM
+- Added Guilty Gear series icon by ElevenZM
+- Added Super Monkey Ball series icon by ElevenZM
+- Added Astral Chain series icon by ElevenZM
+- Changed Mario Kart series icon by ElevenZM
+- Removed Pokemon series icon
+- Removed Star Fox series icon
+- Removed F-Zero series icon
+- Removed EarthBound series icon
+
+- EFFECTS -
+- Added ZM:SP Byleth effects
+
+- ANIMATIONS -
+- Added Sonic Adventure Victory by Benn on c00-c03
+
+- MECHANICS -
+- Removed Air-Dashing
+
+- PLUG-INS -
+- Added animation plug-in for Bad Ending Olimar alts by Nano
+- Added Coordinate Axes Toggle by TNN
+
+- MUSIC-
+- Fixed beta 1.1.1 issue where not all additional music could be manually selected in Smash Mode
+- Added some music from Metal Gear Rising, Kirby and the forgotten Land, LittleBgPlanet, hololive production, and others
