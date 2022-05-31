@@ -1,213 +1,265 @@
-- ZM:SPECIAL v1.1.5-beta.0 Changelog -
-This version is based on memory. v1.1.5-beta.1 and on will be properly documented.
-
+- ZM:SPECIAL v1.1.5-beta.1 Changelog -
 You can find links to most mods on the Contributors & Mod List.
 
 - MAIN -
-- Install method changed
-- Added plug-ins
-- Added File Addition config.json
-- Added ARCropolis Menu files
-- Added written tutorial with how to set up HDR gameplay features on ZM:SPECIAL
-- Added changelog
-- Fixed the beta 1.1.1 music issue
+- Build Optimization
 
 - FIGHTERS -
-Donkey Kong:
-- Replaced c07 with Pirate Funky Kong by LN
-Link:
-- Replaced c02 with Snowquill Set Link by LN
-Samus:
-- Added Blood Samus by PigeonL_SSB on c03
-- Updated the models of Samus Re-Envisioned by Noababoa
-Kirby:
-- Replaced c06 with Clay Kirby by Jory Satana
+- Removed unnecessary files
+Fox:
+- Removed Shadow Fox
+Pikachu:
+- Removed Adidas Pikachu
 Ness:
-- Replaced c01 with Vinny Ness by ElevenZM
-- Replaced c02 with Tokyo 1989-2 Ness by PK
-- Replaced c03 with Kraken Ness by ColdPizza
-Jigglypuff:
-- Replaced c01 with ZM:SP Purin
-- Replaced c07 with Guzma Shades Jigglypuff by Jory Satana
-Zelda:
-- Replaced c02 with Fierce Diety Zelda by Grandserein
-Marth:
-- Replaced c05 with Groom Marth by Cattail
-Young Link:
-- Added the Keaton Mask to c02 (Kafei alt)
-- Added Majora's Mask to c03 (Skull Kid alt)
+- Removed Vinny Ness
+- Removed Tokyo 1989-2 Ness
+Captain Falcon:
+- Removed Black & Blue Captain Falcon
+- Removed Rose Captain Falcon
+- Removed Yellow & Black Captain Falcon
+Ice Climbers:
+- Removed Seiran & Ringo Ice Climbers
+- Removed Satano & Mai Ice Climbers
+- Removed Summoned Ice Climbers
+Sheik:
+- Removed Raven Killer Sheik
+Dr. Mario:
+- Removed Livin' Dr. Mario
+- Removed Killer Dr. Mario
+- Removed Sunshine Dr. Mario
+- Removed Cherry Coke Dr. Mario
+Falco:
+- Removed Army Falco
+- Removed Neon Falco
 Ganondorf:
-- Replaced c06 with Beast Ganon by Nano
-- Replaced c07 with NES Beast Ganon by Nano
-Mewtwo:
-- Replaced c02 with Shadow Mewtwo by Volya
-- Replaced c03 with Mega Mewtwo Y by Nano
-- Replaced c04 with Mega Mewtwo X by Nano
-- Replaced c05 with Mega Shadow Mewtwo X by LN
-- Replaced c06 with ZM:SP Mega Shadow Mewtwo X by LN and ElevenZM
-Giga Bowser:
-- Gave him full UI, though does not have pictures for Dry Giga Bowser alts yet
+- Removed c02 Ganondorf
+Roy:
+- Removed White Roy
+Mr. Game & Watch:
+- Removed Galaxy & Watch
+Meta Knight:
+- Removed Black & Blue Meta Knight
+- Removed Yin Yang Meta Knight
+Pit:
+- Removed Fierce Diety Pit
+- Removed Last of the Order Pit
+- Removed Hinata Pit
 Zero Suit Samus:
-- Replaced c04 wth Casual Outfit ZSS by LN
-- Replaced c05 with MO Casual Outfit ZSS by LN
+- Removed Super Metroid ED Samus
+Wario:
+- Removed PDX Carpet Wario
 Snake:
-- Replaced c03 with Venom Snake by Fewtch
-- Replaced c04 with MGS1 Snake by Alasazar
-- Replaced c05 with MGS1 Tuxedo Snake by Alasazar
-Pokemon Trainer:
-- Fixed UI
-- Removed Tribal Trainer
-- Replaced c05 with Warrior Trainer by LN
-- Replaced c07 with Purple Warrior Trainer by LN
+- Moved Venom Snake to c05
+- Moved MGS1 Snake to c03
+- Moved MGS1 Tuxedo Snake to c04
+Ike:
+- Removed Alm Ike
+- Removed Black & Purple Ike
+- Removed Toshiro Ike
 Squirtle:
-- Fixed UI
-- Removed Tribal Squirtle
-- Replaced c05 with Warrior Squirtle by LN
-- Replaced c07 with Black Warrior Squirtle by LN
+- Removed Mohagony Squirtle
+- Removed Silver Squirtle
+- Removed True Blue Squirtle
 Ivysaur:
-- Fixed UI
-- Removed Tribal Ivysaur
-- Replaced c05 with Warrior Ivysaur by LN
-- Replaced c07 with White Warrior Ivysaur by LN
+- Removed Silver Ivysaur
+- Removed True Blue Ivysaur
 Charizard:
-- Fixed UI
-- Removed Tribal Charizard
-- Replaced c05 with Warrior Charizard by LN
-- Replaced c07 with Black Warrior Charizard by LN
-Lucas:
-- Replaced c02 with Great Wave Lucas by Blucas
-- Replaced c03 with Commander Lucas by Nano
-- Replaced c04 with Masked Man by Nano
-- Replaced c05 with ZM:SP Masked Man by Nano and ElevenZM
-- Replaced c06 with Gold Masked Man by Nano and ElevenZM
-- Replaced c07 with Unmasked Man by Nano
-King Dedede:
-- Replaced c03 with Forgotten Land Dedede by Endersheep
-Pikmin:
-- Replaced c02 with Bad Ending Olimar by Nano
-- Replaced c03 with Mushroom Bad Ending Olimar by Nano
+- Removed Brightshadow Charizard
+- Removed Silver Charizard
+- Removed True Blue Charizard
+Sonic:
+- Removed Unshared Knuckles
+- Moved Silver Knuckles to c06
+- Moved Tribal Knuckles to c07
+- Added Tails Knuckles (by ElevenZM) to c05
+Lucario:
+- Fixed chara_4 UI
+R.O.B.:
+- Removed ZM:SP Robot
+- Removed Tupperware R.O.B.
 Toon Link:
-- Replaced c01 with Outset Toon Link by Ilagu
-Wii Fit Trainer:
-- Made Reckless Safety Notice into last 2 slots instead of 4
+- Removed Megumin Took Link
+- Removed Michiru Toon Link
+Villager:
+- Removed Mana & Kira Villager
+Rosalina:
+- Removed Black Jack Rosalina
 Little Mac:
-- Replaced c03 with Doc Louis by JJ314
-- Replaced c04 with Giga Mac by JJ314
-Doc Louis:
-- Replaced c03 with Little Mac by JJ314
-PAC-MAN:
-- Replaced c03 with Professor PAC-MAN by LuckyJero
-- Replaced c04 with Gentle-MAN by LuckyJero
-- Replaced c05 with PAC-Devil by LuckyJero
+- Removed Johnathan Joestar Little Mac
+Greninja:
+- Removed Gold Greninja
+Palutena:
+- Removed Jaded Palutena
+- Removed Mori Calliope Palutena
+- Removed Void Preistess Palutena
+- Removed Tawny Palutena
+Robin:
+- Removed Linhardt Robin
+- Removed Lorenz Robin
+- Removed Mercedes Robin
 Lucina:
-- Replaced c07 with Decorated Lucina by akomni
+- Fixed Dress Lucina texture
+- Fixed chara_4 UI
 Duck Hunt:
-- Replaced c01 with ZM:SP Duck Hunt by ElevenZM
+- Removed Iggy & The Fool Duck Hunt
+Corrin:
+- Removed Galaxy Corrin
+- Removed Cruel Fate Corrin
+- Removed 2B Corrin
+- Added Color 8 Male Corrin (by Ilagu) to c04
+Bayonetta:
+- Removed Amaterasu Bayonetta
+- Removed Dua Lipa Bayonetta
+Daisy:
+- Removed Darkwave Daisy
+Ridley:
+- Removed Jaded Ridley
+- Removed Parallel Ridley
+Richter:
+- Removed Yellow & Black Richter
 Chrom:
-- Replaced c06 with Exalt Chrom by Cattail
-Dark Samus:
-- Replaced c01 with ZM:SP Dark Samus by ElevenZM
-Incineroar:
-- Replaced c04 with Team Skull Incineroar by PSIOno
-- Replaced c05 with GS Team Skull Incineroar by PSIOno
-Piranha Plant:
-- Replaced c02 with Muncher Piranha Plant by Crescent Mods
-- Replaced c03 with Ice Piranha Plant by SonicGamer11
-- Replaced c06 with Spiny Piranha Plant by Jory Satana
-- Replaced c07 with Prickly Piranha Plant by Jory Satana
-Hero:
-- Replaced c04 with Armoured Eleven by LN
-- Replaced c05 with Armoured Arusu by LN
-- Replaced c06 with Armoured Solo by LN
-- Replaced c07 with Armoured Eight by LN
+- Fixed c06 UI
+Banjo & Kazooie:
+- Removed Yellow & Purple Banjo & Kazooie
+- Removed Vapor Banjo & Kazooie
+Terry:
+- Removed BW Terry
 Byleth:
-- Replaced c02 with ZM:SP Byleth by ElevenZM
-- Replaced c05 with Summer Byleth by GryzX
-- Replaced c06 with Enlightened One Byleth by LN
-- Replaced c07 with Enlightened One Byleth by LN
-Sephiroth:
-- Replaced c07 with Safer Sephiroth by LN
+- Removed Tanjiro Byleth
+- Removed Summer Byleth
+Rex:
+- Removed 9S Rex
+- Updated Swimsuit Rex
+Pyra:
+- Removed 2B Pyra
+- Moved Fierce Diety Pyra to c03
+- Updated Swimsuit Pyra
+Mythra:
+- Removed A2 Mythra
+- Moved Fierce Diety Mythra to c03
+- Updated Swimsuit Mythra
 
 - STAGES -
-Battlefield:
-- Replaced both forms with Shrine Battlefield II by ElevenZM
-Final Destination:
-- Replaced both forms with World of Light Destination by JoBen
-Great Bay:
-- Replaced normal form with Legal ver. by Ginn
-Brinstar:
-- Replaced battle form with Pyrosphere by Crescent Mods
-Yoshi's Story:
-- Replaced normal form with Beach Yoshi's Story by 0X1
-Fountain of Dreams:
-- Replaced normal form with Infinite Azure by WTails
-Big Blue:
-- Replaced battle form with Big Vapor by WielandSMH
-Mushroomy Kingdom:
-- Replaced battle form with Mushroomy Kingdom 1-2 by Crescent Mods
-Figure-8 Circuit:
-- Replaced both forms with Jungle Island (Remake) by ElevenZM
-Pokemon Stadium 2:
-- Replaced both forms with Cipher Stadium 2 by Crescent Mods
-Smashville:
-- Replaced both forms with Woodfallville by 0X1
-Skyworld:
-- Replaced both forms with Heavenly Skyworld by WTails
+- Removed unnecessary files
+Peach's Castle:
+- Removed v99 Peach's Castle
+Hyrule Castle:
+- Removed Galaxy Hyrule
+Kongo Falls:
+- Removed Kongo Paradise
+Onett:
+- Removed Alternative Cotton Candy ver.
+Fourside:
+- Removed Synthside
+- Updated Legal ver. by Ginn
+Delphino Plaza:
+- Removed black shine texture
+Yoshi's Island (Brawl):
+- Removed Yoshi's Cavern
+Summit:
+- Removed colour edits
 Pirate Ship:
-- Replaced battle form with Ganon's Tower by Crescent Mods
-Spear Pillar:
-- Replaced battle form with Distortion World DX by Crescent Mods
-Town & City:
-- Replaced normal form with Sakura City by CSharp
-Boxing Ring (Smash Bros.):
-- Replaced normal form with Legal ver. by Ginn
-Gaur Plain:
-- Replaced normal form with Legal form by Devory
-Suzaku Castle:
-- Fixed UI
-- Replaced both forms with Night Suzaku Castle by WTails
-New Donk City Hall:
-- Replaced battle form with New Donk Festival by WTails
-Moray Towers:
-- Replaced battle form with Always Night Moray Towers by Tolty
-Results:
-- Replaced normal form with Mishima Dojo Results (Inside) by WTails
-Vs. Marx:
-- Replaced normal form with Legal ver. by Ginn
-Vs. Galleom:
-- Replaced normal form with Legal ver. by Ginn
-Vs. Rathalos:
-- Replaced normal form with Ancestral Steppe by Ginn
-Vs. Ganon:
-- Replaced normal form with Legal ver. by Ginn
-Home-Run Contest:
-- Replaced normal form with Legal ver. by Ginn
+- Removed Askeladd's Ship
+75 m:
+- Removed silver mod
+Mario Bros.:
+- Removed silver mod
+Hanenbow:
+- Removed ZM:SP Hanenbow
+Green Hill Zone:
+- Removed Mania Green Hill Zone
+Distant Planet:
+- Removed Polygon Planet
+Gerudo Valley:
+- Removed Icy Valley
+Spirit Train:
+- Removed Mugen Train
+Unova Pokemon League:
+- Removed both forms of Desert Unova
+Balloon Fight:
+- Removed Edo + Cryo Balloon Land
+Pictochat 2:
+- Removed Flipnote
+- Removed Alternate ver.
+Great Cave Offensive:
+- Removed VaporCave Offensive
+Windy Hill Zone:
+- Removed Dawn Windy Hill Zone
+Umbra Clock Tower:
+- Removed Blood Moon Clock
+Garreg Mach Monestary:
+- Removed ZM:SP Garreg Mach Monestary
 
-- UI -
-- Added hololive production series icon by ElevenZM
-- Added Black Clover series icon by ElevenZM
-- Added Guilty Gear series icon by ElevenZM
-- Added Super Monkey Ball series icon by ElevenZM
-- Added Astral Chain series icon by ElevenZM
-- Changed Mario Kart series icon by ElevenZM
-- Removed Pokemon series icon
-- Removed Star Fox series icon
-- Removed F-Zero series icon
-- Removed EarthBound series icon
+- ITEMS -
+- Removed unnecessary files
+- Removed Banana texture
+- Removed Book texture
+- Removed Banjo Bomb texture
+- Removed Peanut texture
+- Removed Link Arrow texture
+- Removed Link Bomb texture
+- Removed Mecha Koopa texture
+- Removed Shiny Bewear
+- Removed RRR sound
 
 - EFFECTS -
-- Added ZM:SP Byleth effects
+- Removed unnecessary files
+- Removed Ganon Effects
+- Removed Bayonetta Effects
+- Removed Banjo & Kazooie Effects
+- Removed Diddy Kong Effects
+- Removed Terry Effects
+- Removed Donkey Kong Effects
+- Removed Pyra Effects
+- Removed Mythra Effects
+- Removed Ganondorf Effects
+- Removed Incineroar Effects
+- Removed Greninja Effects
+- Removed Ike Effects
+- Removed Joker Effects
+- Removed Corrin Trails only
+- Removed Ken Effects
+- Removed Kirby Effects
+- Removed Bowser Effects
+- Removed Giga Bowser Effects
+- Removed Bowser Jr. Effects
+- Removed Link Effects
+- Removed Lucario Effects
+- Removed Lucina Effects
+- Removed Luigi Effects
+- Removed Mario Effects
+- Removed Meta Knight Effects
+- Removed Villager Effects
+- Removed Piranha Plant Effects
+- Removed Palutena Effects
+- Removed Peach Effects
+- Removed Pichu Effects
+- Removed Pit Effects
+- Removed Popo Effects
+- Removed Robin Effects
+- Removed R.O.B. Effects
+- Removed Mega Man Effects
+- Removed Ridley Effects
+- Removed Ryu Effects
+- Removed Samus Effects
+- Removed Shulk Effects
+- Removed Simon Effects
+- Removed Snake Effects
+- Removed Zero Suit Samus Effects
+- Removed Min Min Effects
+- Removed Sora Effects
+- Removed Wii Fit Trainer Effects
+- Removed Yoshi Effects
+- Removed Young Link Effects
+- Removed Zelda Effects
 
-- ANIMATIONS -
-- Added Sonic Adventure Victory by Benn on c00-c03
+- UI -
+- Removed EarthBound series icon
 
-- MECHANICS -
-- Removed Air-Dashing
+- ADJUSTMENTS -
+- Removed Banjo & Kazooie Boss at Spiral Mountain Route
 
-- PLUG-INS -
-- Added animation plug-in for Bad Ending Olimar alts by Nano
-- Added Coordinate Axes Toggle by TNN
-
-- MUSIC-
-- Fixed beta 1.1.1 issue where not all additional music could be manually selected in Smash Mode
-- Added some music from Metal Gear Rising, Kirby and the forgotten Land, LittleBgPlanet, hololive production, and others
+- MUSIC -
+- Removed Shulk Fanfare
+- Removed Lucas Fanfare
+- Removed about 200 music tracks that don't necessarily need to be in the build
