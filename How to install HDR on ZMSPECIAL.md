@@ -3,7 +3,7 @@
 
 - Do not consult the servers or devs of HDR or ZM:SPECIAL when you are having trouble installing this or have experienced bugs or crashes.
 - This is not an officially supported method. It was only something I was approved of to write by the lead of HDR, Black Calculus.
-- This tutorial was only tested on ZM:SPECIAL beta 1.1.5, HewDraw Remix v0.6.30 beta, Atmosphere 1.3.2, ARCropolis v3.4.0, SSBU 3.1.0, all on Nintendo Switch.
+- This tutorial was only tested on ZM:SPECIAL beta 1.1.5, HewDraw Remix v0.6.30 beta, Atmosphere 1.3.2, ARCropolis v3.4.0, SSBU 13.0.1, all on Nintendo Switch.
 I will not be making a Ryujinx tutorial. Again, don't consult servers or devs about this.
 - This was only playtested by me for a little. I am not 100% familiar with everything in HDR either, so I am not sure that this will be 100% accurate.
 During my playtest, I did not experience any crashes.
